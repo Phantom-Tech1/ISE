@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Our only supported version curranty is the beta, but this will change in the near future
+Our only supported version currently  is the beta, but this will change in the near future
 
 | Version | Supported          |
 | ------- | ------------------ |
