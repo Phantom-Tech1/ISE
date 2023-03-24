@@ -6,7 +6,7 @@ body {
 
 .container {
     width: 1000px;
-    height: 500px;
+    height: 800px;
     position: absolute;
     left: 190px;
     top: 50px;
@@ -14,16 +14,16 @@ body {
     border: 1px solid black;
     border-radius: 30px;
 }
-.searchBox {
+.searchBar {
     width: 700px;
     height: 75px;
     text-align: center;
     font-size: 50px;
     border: 3px solid black;
-    border-radius: 30px;
+    border-radius: 10px;
     position: absolute;
     top: 350px;
-    left: 150px;
+    left: 75px;
 }
 .ICE {
     width: 400px;
@@ -31,4 +31,27 @@ body {
     position: absolute;
     left: 310px;
     top: 60px;
+}
+.key {
+    font-size: 20px;
+    font-weight: 800;
+    position: absolute;
+    top: 525px;
+    left: 100px;
+}
+.searchBtn {
+    height: 75px;
+    width: 75px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    left: 785px;
+    top: 352.5px;
+}
+.KEY {
+    font-size: 50px;
+    font-weight: 900;
+    position: absolute;
+    top: 425px;
+    left: 450px;    
 }
