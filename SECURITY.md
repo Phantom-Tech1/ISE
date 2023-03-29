@@ -6,7 +6,7 @@ Our only supported version currently  is the beta, but this will change in the n
 
 | Version | Supported          |
 | ------- | ------------------ |
-| ISE Beta| :white_check_mark: |
+| ISE Alpha| :white_check_mark: |
 |   | :x:                |
 |   | :x: |
 |   | :x:                |
