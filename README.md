@@ -8,6 +8,8 @@ One of the key features of our platform is our vast and ever expanding library o
 
 At ISE, we're committed to providing our users with faster, more accurate, and more relevant search results. Our team of experts is dedicated to improving the Internet experience, and we're constantly working on new projects and initiatives to enhance the functionality of our engine. Whether you're looking to stay up-to-date with the latest news and trends or simply want to find something entertaining to watch, our search engine has got you covered.
 
+Try out new sites and games every month, and enjoy your time online with us! We are constantly adding new games, websites and apps to our website. Check back here often for more great content! We are always looking for new ways to bring you guys the best content as possible. If you have any feedback or suggestions, please get in touch with us!
+
 So why wait? Try ISE today and experience the best gaming center of the internet! 
 
 <h3> When you buy our product, you will be sent a email containing information. Please do not leak the informantion, as we have worked very hard and wish to gain some profit. </h3>
