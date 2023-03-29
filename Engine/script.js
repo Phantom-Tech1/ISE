@@ -20,20 +20,20 @@ function searchable() {
         location.href = "https://violent-covids-bigfoot-15243.netlify.app/"
     } else if (searchBar.value == "cookie") {
         location.href = "https://www.google.com/search?q=cookie&rlz=1CASICM_enUS1045&oq=cookie&aqs=chrome..69i57j46i395i409i424i433i512j46i67i395i415i424i433i650j0i67i650j0i433i512j46i67i433i650j46i433i512j0i131i433i512j0i433i512j0i271.1461j1j7&sourceid=chrome&ie=UTF-8"
-    } else if (searchBar.value == "") {
-        location.href = ""
+    } else if (searchBar.value == "hammerhead3") {
+        location.href = "https://byvolp.web.app/"
     } else if (searchBar.value == "hammerhead1") {
         location.href = "https://britannica.gq/"
     } else if (searchBar.value == "hammerhead2") {
         location.href = "https://udemy.gq/"
-    } else if (searchBar.value == "") {
-        location.href = ""
-    } else if (searchBar.value == "") {
-        location.href = ""
-    } else if (searchBar.value == "") {
-        location.href = ""
-    } else if (searchBar.value == "") {
-        location.href = ""
+    } else if (searchBar.value == "hammerhead4") {
+        location.href = "https://byvolp.firebaseapp.com/"
+    } else if (searchBar.value == "hammerhead5") {
+        location.href = "https://ssoportal.gq/"
+    } else if (searchBar.value == "hammerhead6") {
+        location.href = "https://educationgg-23704.web.app/"
+    } else if (searchBar.value == "hammerhead7") {
+        location.href = "https://educationgg-23704.firebaseapp.com/"
     } else if (searchBar.value == "") {
         location.href = ""
     } else if (searchBar.value == "") {
