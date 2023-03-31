@@ -30,9 +30,9 @@ function searchable() {
         location.href = "https://byvolp.firebaseapp.com/"
     } else if (searchBar.value == "school server5") {
         location.href = "https://ssoportal.gq/"
-    } else if (searchBar.value == "school server") {
+    } else if (searchBar.value == "school server6") {
         location.href = "https://educationgg-23704.web.app/"
-    } else if (searchBar.value == "school server") {
+    } else if (searchBar.value == "school server7") {
         location.href = "https://educationgg-23704.firebaseapp.com/"
     } else if (searchBar.value == "") {
         location.href = ""
