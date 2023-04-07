@@ -1,4 +1,3 @@
- 2.51 KB
 const searchBar = document.querySelector('.searchBar');
 const searchBtn = document.querySelector('.searchBtn');
 let url = location;
@@ -27,21 +26,21 @@ function searchable() {
         location.href = "https://britannica.gq/"
     } else if (searchBar.value == "hammerhead2") {
         location.href = "https://udemy.gq/"
-    } else if (searchBar.value == "school server4") {
-        location.href = "https://byvolp.firebaseapp.com/"
-    } else if (searchBar.value == "school server5") {
-        location.href = "https://ssoportal.gq/"
-    } else if (searchBar.value == "school server6") {
-        location.href = "https://educationgg-23704.web.app/"
-    } else if (searchBar.value == "school server7") {
-        location.href = "https://educationgg-23704.firebaseapp.com/"
-    } else if (searchBar.value == "") {
-        location.href = ""
-    } else if (searchBar.value == "") {
-        location.href = ""
-    } else if (searchBar.value == "") {
-        location.href = ""
-    }else {
+    } else if (searchBar.value == "bloxors") {
+        location.href = "https://violent-covids-lioxryt-48576.netlify.app/flash/?swf=bloxorz.swf"
+    } else if (searchBar.value == "duck hunt") {
+        location.href = "https://violent-covids-lioxryt-48576.netlify.app/flash/?swf=duckhunt.swf"
+    } else if (searchBar.value == "hobo 7 heaven") {
+        location.href = "https://violent-covids-lioxryt-48576.netlify.app/flash/?swf=hobo7.swf"
+    } else if (searchBar.value == "pac man") {
+        location.href = "https://violent-covids-lioxryt-48576.netlify.app/flash/?swf=pacman.swf"
+    } else if (searchBar.value == "pong") {
+        location.href = "https://violent-covids-lioxryt-48576.netlify.app/flash/?swf=pong.swf"
+    } else if (searchBar.value == "tetris") {
+        location.href = "https://violent-covids-lioxryt-48576.netlify.app/flash/?swf=flash-tetris.swf"
+    } else if (searchBar.value == "worlds hardest game 2") {
+        location.href = "https://violent-covids-lioxryt-48576.netlify.app/flash/?swf=theworldshardestgame2.swf"
+    } else {
         searchBar.placeholder = "word invalid, vist KEY";
     }
 };
