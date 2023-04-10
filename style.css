@@ -10,7 +10,7 @@ body {
     position: absolute;
     left: 190px;
     top: 50px;
-    background-image: linear-gradient( 109.6deg,  rgba(61,245,167,1) 11.2%, rgba(9,111,224,1) 91.1% );
+    background-image: linear-gradient( 109.6deg,  rgb(5, 151, 83) 11.2%, rgba(9,111,224,1) 91.1% );
     border: 1px solid black;
     border-radius: 30px;
 }
