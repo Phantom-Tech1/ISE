@@ -74,14 +74,11 @@ function searchable() {
         location.href = "https://corrupted-hacker-3kh0.netlify.app/files/cluster-rush/index.html"
     } else if (searchBar.value = "crossy road") {
         location.href = "https://corrupted-hacker-3kh0.netlify.app/files/crossyroad/index.html"
-    } else {
-  } else if (searchBar.value = "Interstellar") {
+    } else if (searchBar.value = "Interstellar") {
         location.href = "bubbo.my.to"
-    } else {
-         } else if (searchBar.value = "Nebula") {
+    } else if (searchBar.value = "Nebula") {
         location.href = "https://marmalade-freezing-bloom.glitch.me/"
-    } else {
-          } else if (searchBar.value = "TIW") {
+    } else if (searchBar.value = "TIW") {
         location.href = "Imaidiot.vercel.app"
     } else {
         searchBar.placeholder = "word invalid, vist KEY";
