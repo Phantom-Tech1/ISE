@@ -17,7 +17,7 @@ function searchable() {
     } else if (searchBar.value == "3kh0") {
         location.href = "https://corrupted-hacker-3kh0.netlify.app"
     } else if (searchBar.value == "bigfoot") {
-        location.href = "https://corrupted-hackers-bigfoot.netlify.app/"
+        location.href = "oogle.com/search?aqs=chrome..69i57j69i61j69i60l2j69i65l2j69i61l2.851j0j7&ie=UTF-8&oq=cookie&q=cookie&rlz=1C1GCEO_enUS1029US1031&sourceid=chrome&surl=1&safe=active&ssui=on"
     } else if (searchBar.value == "cookie") {
         location.href = "https://www.google.com/search?q=cookie&rlz=1CASICM_enUS1045&oq=cookie&aqs=chrome..69i57j46i395i409i424i433i512j46i67i395i415i424i433i650j0i67i650j0i433i512j46i67i433i650j46i433i512j0i131i433i512j0i433i512j0i271.1461j1j7&sourceid=chrome&ie=UTF-8"
     } else if (searchBar.value == "school server") {
